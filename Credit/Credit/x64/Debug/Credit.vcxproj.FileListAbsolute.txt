@@ -1,0 +1,2 @@
+C:\Users\User\source\repos\Credit\Credit\x64\Debug\Credit.vcxproj.AssemblyReference.cache
+C:\Users\teletinc\Desktop\Credit\Credit\x64\Debug\Credit.vcxproj.AssemblyReference.cache
