@@ -1,0 +1,3 @@
+C:\Users\teletinc\Desktop\calculator_teletin\calculat.7968fbb3\x64\Debug\calculator_teletin.vcxproj.AssemblyReference.cache
+C:\Users\teletinc\Desktop\calculator_teletin\calculat.7968fbb3\x64\Debug\calculator_teletin.Form1.resources
+C:\Users\teletinc\Desktop\calculator_teletin\calculat.7968fbb3\x64\Debug\calculator_teletin.vcxproj.GenerateResource.cache
